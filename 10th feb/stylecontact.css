@@ -1,0 +1,11 @@
+body{
+	background-color:skyblue;
+	font-family: Arial , "Times New Roman", Monospace;
+}
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
